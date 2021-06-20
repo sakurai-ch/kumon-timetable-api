@@ -36,16 +36,16 @@ class FramesTableSeeder extends Seeder
         Frame::insert(['id' => 19, 'date_id' => 2, 'time_id' => 9, 'priority' => 111, 'state' => 'selectable']);
         Frame::insert(['id' => 20, 'date_id' => 2, 'time_id' => 10, 'priority' => 112, 'state' => 'selectable']);
 
-        Frame::insert(['id' => 21, 'date_id' => 3, 'time_id' => 1, 'priority' => 21, 'state' => 'selectable']);
-        Frame::insert(['id' => 22, 'date_id' => 3, 'time_id' => 2, 'priority' => 22, 'state' => 'selectable']);
-        Frame::insert(['id' => 23, 'date_id' => 3, 'time_id' => 3, 'priority' => 23, 'state' => 'selectable']);
-        Frame::insert(['id' => 24, 'date_id' => 3, 'time_id' => 4, 'priority' => 24, 'state' => 'selectable']);
-        Frame::insert(['id' => 25, 'date_id' => 3, 'time_id' => 5, 'priority' => 25, 'state' => 'selectable']);
-        Frame::insert(['id' => 26, 'date_id' => 3, 'time_id' => 6, 'priority' => 26, 'state' => 'selectable']);
-        Frame::insert(['id' => 27, 'date_id' => 3, 'time_id' => 7, 'priority' => 27, 'state' => 'selectable']);
-        Frame::insert(['id' => 28, 'date_id' => 3, 'time_id' => 8, 'priority' => 28, 'state' => 'selectable']);
-        Frame::insert(['id' => 29, 'date_id' => 3, 'time_id' => 9, 'priority' => 121, 'state' => 'selectable']);
-        Frame::insert(['id' => 30, 'date_id' => 3, 'time_id' => 10, 'priority' => 122, 'state' => 'selectable']);
+        Frame::insert(['id' => 21, 'date_id' => 3, 'time_id' => 1, 'priority' => 81, 'state' => 'selectable']);
+        Frame::insert(['id' => 22, 'date_id' => 3, 'time_id' => 2, 'priority' => 82, 'state' => 'selectable']);
+        Frame::insert(['id' => 23, 'date_id' => 3, 'time_id' => 3, 'priority' => 83, 'state' => 'selectable']);
+        Frame::insert(['id' => 24, 'date_id' => 3, 'time_id' => 4, 'priority' => 84, 'state' => 'selectable']);
+        Frame::insert(['id' => 25, 'date_id' => 3, 'time_id' => 5, 'priority' => 85, 'state' => 'selectable']);
+        Frame::insert(['id' => 26, 'date_id' => 3, 'time_id' => 6, 'priority' => 86, 'state' => 'selectable']);
+        Frame::insert(['id' => 27, 'date_id' => 3, 'time_id' => 7, 'priority' => 87, 'state' => 'selectable']);
+        Frame::insert(['id' => 28, 'date_id' => 3, 'time_id' => 8, 'priority' => 88, 'state' => 'selectable']);
+        Frame::insert(['id' => 29, 'date_id' => 3, 'time_id' => 9, 'priority' => 181, 'state' => 'selectable']);
+        Frame::insert(['id' => 30, 'date_id' => 3, 'time_id' => 10, 'priority' => 182, 'state' => 'selectable']);
 
         Frame::insert(['id' => 31, 'date_id' => 4, 'time_id' => 1, 'priority' => 31, 'state' => 'selectable']);
         Frame::insert(['id' => 32, 'date_id' => 4, 'time_id' => 2, 'priority' => 32, 'state' => 'selectable']);

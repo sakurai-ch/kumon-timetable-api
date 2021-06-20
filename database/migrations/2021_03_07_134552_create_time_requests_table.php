@@ -15,8 +15,8 @@ class CreateTimeRequestsTable extends Migration
     {
         Schema::create('time_requests', function (Blueprint $table) {
             $table->id();
-            $table->string('user_id');
-            $table->string('frame_id');
+            $table->integer('user_id');
+            $table->integer('frame_id');
             $table->string('state');
             $table->timestamps();
         });
